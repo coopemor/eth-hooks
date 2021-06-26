@@ -22,7 +22,7 @@
   ],
   "dependencies": {
     "axios": "^0.21.1",
-    "burner-provider": "^1.0.15",
+    "burner-provider": "https://github.com/coopemor/burner-provider/tarball/master",
     "ethers": "^5.3.1"
   },
   "peerDependencies": {
